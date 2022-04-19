@@ -92,10 +92,11 @@ width: 800px;
 }
 
 
-@media
-
-p.note { display: none; }
+@media	screen and (min-width: 540px),
+	screen and (orientation: landscape) {
+   p.note { display: none; }
 }
+
 
 </style>
 
