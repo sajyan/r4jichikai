@@ -115,9 +115,9 @@ p.note { display: none; }
 <!--ここ上は、ほぼそのまま使います！-->
 
 
-<!--QRコードの挿入例--><!--
-<p align="left"> <img src="qr.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
-<p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>-->
+<!--QRコードの挿入例-->
+<p align="left"> <img src="r4jichikai.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <!--流れ文字の挿入例--><!--
 <h1><span class="yellow"><marquee behavior="alternate">!!! 宇都宮市民水泳大会 2021/07/04 @ドリームかわち !!!</marquee></span></h1>-->
