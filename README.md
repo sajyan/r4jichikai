@@ -121,14 +121,14 @@ width: 800px;
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="alternate">!!! ダントー跡地開発構想 2022/04/24 !!!</marquee></span></h1>	
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2022/04/24 ダントー跡地開発構想 !!!</marquee></span></h1>	
 	
 <a href="20220424_001.JPG" data-lightbox="abc"><img src="20220424_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220424_002.JPG" data-lightbox="abc"><img src="20220424_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220424_003.JPG" data-lightbox="abc"><img src="20220424_003.JPG" alt="サンプル画像" width="900" /></a>
 	
 
-<h1><span class="yellow"><marquee behavior="alternate">!!! 会計報告など 2022/04/19 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2022/04/19 決算・予算報告など !!!</marquee></span></h1>
 
 
 <!--ここから下が、本体部分--><!--
