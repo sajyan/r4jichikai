@@ -128,8 +128,19 @@ width: 800px;
 <a href="20220424_003.JPG" data-lightbox="abc"><img src="20220424_003.JPG" alt="サンプル画像" width="900" /></a>
 	
 
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2022/04/19 決算・予算報告など !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2023/04/04 決算・予算報告など !!!</marquee></span></h1>
 
+<a href="20230404_001.JPG" data-lightbox="abc"><img src="20230404_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230404_002.JPG" data-lightbox="abc"><img src="20230404_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230404_003.JPG" data-lightbox="abc"><img src="20230404_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230404_004.JPG" data-lightbox="abc"><img src="20230404_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230404_005.JPG" data-lightbox="abc"><img src="20230404_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230404_006.JPG" data-lightbox="abc"><img src="20230404_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230404_007.JPG" data-lightbox="abc"><img src="20230404_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230404_008.JPG" data-lightbox="abc"><img src="20230404_008.JPG" alt="サンプル画像" width="900" /></a>
+
+
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2022/04/19 決算・予算報告など !!!</marquee></span></h1>
 
 <!--ここから下が、本体部分--><!--
 <br><p>じゅりちゃんの50Freeから、赤羽さんの200Freeまで、<br>気がついたものだけ動画撮りました。<br>撮り逃してたら、ごめんなさいです m(_ _)m<br>
