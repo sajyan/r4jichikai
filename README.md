@@ -130,14 +130,14 @@ width: 800px;
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2023/04/04 決算・予算報告など !!!</marquee></span></h1>
 
-<a href="20230404_001.JPG" data-lightbox="abc"><img src="20230404_001.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230404_002.JPG" data-lightbox="abc"><img src="20230404_002.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230404_003.JPG" data-lightbox="abc"><img src="20230404_003.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230404_004.JPG" data-lightbox="abc"><img src="20230404_004.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230404_005.JPG" data-lightbox="abc"><img src="20230404_005.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230404_006.JPG" data-lightbox="abc"><img src="20230404_006.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230404_007.JPG" data-lightbox="abc"><img src="20230404_007.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230404_008.JPG" data-lightbox="abc"><img src="20230404_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230404_001.png" data-lightbox="abc"><img src="20230404_001.png" alt="サンプル画像" width="900" /></a>
+<a href="20230404_002.png" data-lightbox="abc"><img src="20230404_002.png" alt="サンプル画像" width="900" /></a>
+<a href="20230404_003.png" data-lightbox="abc"><img src="20230404_003.png" alt="サンプル画像" width="900" /></a>
+<a href="20230404_004.png" data-lightbox="abc"><img src="20230404_004.png" alt="サンプル画像" width="900" /></a>
+<a href="20230404_005.png" data-lightbox="abc"><img src="20230404_005.png" alt="サンプル画像" width="900" /></a>
+<a href="20230404_006.png" data-lightbox="abc"><img src="20230404_006.png" alt="サンプル画像" width="900" /></a>
+<a href="20230404_007.png" data-lightbox="abc"><img src="20230404_007.png" alt="サンプル画像" width="900" /></a>
+<a href="20230404_008.png" data-lightbox="abc"><img src="20230404_008.png" alt="サンプル画像" width="900" /></a>
 
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2022/04/19 決算・予算報告など !!!</marquee></span></h1>
